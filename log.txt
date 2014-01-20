@@ -1,0 +1,7 @@
+LOG FILE
+------------------------------------------------
+Completion Time: 0 seconds
+Number of Cycles: 9
+Number of Nodes: 10
+Number of Connected Node: 0
+Number of Nodes in Range of each other: 3
